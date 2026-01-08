@@ -1,3 +1,3 @@
 # Demo
-Just having fun
+Just having fun.
 Author - Samarjeet Singh

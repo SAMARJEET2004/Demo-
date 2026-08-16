@@ -1,4 +1,4 @@
 # Demo
 Just having fun.
 <br>
-Author - Samarjeet (Tomar) Singh
+Author - Samar Singh
